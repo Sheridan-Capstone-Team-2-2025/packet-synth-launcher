@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Packet Synthesizer - Linux Launcher
+# Packet Synthesizer - Linux Launcher
 
 CONFIG_FILE="./launcher.conf"
 
@@ -9,14 +9,14 @@ if [ ! -f "$CONFIG_FILE" ]; then
     echo "IMAGE=dacae/packet-synth" > $CONFIG_FILE
 fi
 
-echo "Using IMAGE=$IMAGE"
-
 source $CONFIG_FILE
 # Check Docker is installed
 if ! command -v docker &> /dev/null; then
     echo "Error: Docker Engine not installed."
     exit 1
 fi
+
+echo "Using IMAGE=$IMAGE"
 
 # Start Docker if not running
 if ! docker info &> /dev/null; then
