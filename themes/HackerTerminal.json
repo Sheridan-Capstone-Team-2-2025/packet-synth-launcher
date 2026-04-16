@@ -1,0 +1,27 @@
+{
+  "name": "Hacker Terminal",
+  "windowBackground": "#0a0a0a",
+  "panelBackground": "#0a0a0a",
+  "buttonBackground": "#3c3c3c",
+  "inputBackground": "#323232",
+  "textColour": "#00ff40",
+  "buttonTextColour": "#0a0a0a",
+
+  "font": {
+    "size": 12,
+    "family": 76,
+    "style": 90,
+    "weight": 400,
+    "underlined": false,
+    "face": "Consolas"
+  },
+
+  "titleFont": {
+    "size": 18,
+    "family": 76,
+    "style": 90,
+    "weight": 400,
+    "underlined": false,
+    "face": "Consolas"
+  }
+}

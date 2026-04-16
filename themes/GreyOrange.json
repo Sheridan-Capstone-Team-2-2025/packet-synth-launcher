@@ -1,0 +1,27 @@
+{
+  "name": "Grey Orange",
+  "windowBackground": "#3c3f41",
+  "panelBackground": "#3c3f41",
+  "buttonBackground": "#ff7700",
+  "inputBackground": "#373a3c",
+  "textColour": "#ffffff",
+  "buttonTextColour": "#ffffff",
+
+  "font": {
+    "size": 11,
+    "family": 72,
+    "style": 90,
+    "weight": 400,
+    "underlined": false,
+    "face": "Georgia"
+  },
+
+  "titleFont": {
+    "size": 18,
+    "family": 72,
+    "style": 90,
+    "weight": 700,
+    "underlined": false,
+    "face": "Georgia"
+  }
+}

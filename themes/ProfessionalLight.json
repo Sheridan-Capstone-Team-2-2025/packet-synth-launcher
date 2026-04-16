@@ -1,0 +1,26 @@
+{
+  "name": "Professional Light",
+  "windowBackground": "#D2D5DA",
+  "panelBackground": "#D2D5DA",
+  "buttonBackground": "#8B0000",
+  "inputBackground": "#C3C6CB",
+  "textColour": "#1E1E1E",
+
+  "font": {
+    "size": 11,
+    "family": 70,
+    "style": 90,
+    "weight": 400,
+    "underlined": false,
+    "face": "Calibri"
+  },
+
+  "titleFont": {
+    "size": 18,
+    "family": 70,
+    "style": 90,
+    "weight": 700,
+    "underlined": false,
+    "face": "Calibri"
+  }
+}

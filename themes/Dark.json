@@ -1,0 +1,26 @@
+{
+  "name": "Dark",
+  "windowBackground": "#1e1e1e",
+  "panelBackground": "#282828",
+  "buttonBackground": "#3c3c3c",
+  "inputBackground": "#323232",
+  "textColour": "#d6d5d2",
+
+  "font": {
+    "size": 11,
+    "family": 74,
+    "style": 90,
+    "weight": 400,
+    "underlined": false,
+    "face": "Segoe UI"
+  },
+
+  "titleFont": {
+    "size": 18,
+    "family": 74,
+    "style": 90,
+    "weight": 700,
+    "underlined": false,
+    "face": "Segoe UI"
+  }
+}
