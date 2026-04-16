@@ -7,7 +7,7 @@ INSTRUCTIONS:\
 First, you must have Docker / Docker Desktop (for WSL users) installed on your computer.\
 Download the repository zip file and extract the contents.\
 The run script must first be given permission with "chmod +x run-linux.sh", or "chmod +x run-windows.sh" for WSL users.\
-For the first run, the application should be launched in the terminal with "./run-linux.sh" or "./run-linux.sh", as you will be prompted for Network Interface selection.\
+For the first run, the application should be launched in the terminal with "./run-linux.sh" or "./run-windows.sh", as you will be prompted for Network Interface selection.\
 Once this is complete, the launcher configuration will be saved in the directory as launcher.conf, and the network configuration will be saved as config.json. If the Network Interface was incorrect or ever needs to be changed, it can be manually set in config.json.\
 The script will then start the Docker service and automatically launch the application.
 
